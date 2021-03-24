@@ -1,0 +1,27 @@
+_repo: How-to-plan-a-library-building-for-library-work_64560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soule, Charles C. (Charles Carroll)
+    alias: Soule, Charles Carroll
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '52954'
+    url: http://www.gutenberg.org/2009/agents/52954
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Carroll_Soule
+description: ''
+gutenberg_issued: '2021-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64560'
+  lccn: '12014466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Library architecture'
+- GITenberg
+title: How to plan a library building for library work
+url: http://www.gutenberg.org/ebooks/64560
